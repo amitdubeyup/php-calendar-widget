@@ -1,6 +1,6 @@
-# calendar
+# js-calendar-widget
 
-A calendar project
+- Modern and scalable architecture
 
 ## ✨ Features
 
@@ -10,8 +10,8 @@ A calendar project
 
 ```bash
 # Clone the repository
-git clone https://github.com/amitdubeyup/calendar.git
-cd calendar
+git clone https://github.com/amitdubeyup/js-calendar-widget.git
+cd js-calendar-widget
 
 ```
 
@@ -34,7 +34,7 @@ Update the `.env` file with your configuration values.
 ## 📁 Project Structure
 
 ```
-calendar/
+js-calendar-widget/
 ├── .env.example
 ├── README.md
 ```
