@@ -1,4 +1,4 @@
-# js-calendar-widget
+# Php Calendar Widget
 
 - Modern and scalable architecture
 
